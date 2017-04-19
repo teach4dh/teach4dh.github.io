@@ -24,7 +24,7 @@ table, th, td, img {
 /*------------------------------ HEADER ------------------------------*/
 
 #header {
-    background: linear-gradient(rgba(222,119,0,1), rgba(222,119,0,0.4));
+    background: linear-gradient(rgba(255,119,0,0.6), rgba(255,119,0,0.2));
     border-bottom: 2px solid #fff;
     color: #fff;
     padding-left: 20px;
@@ -229,9 +229,9 @@ li {
     background: linear-gradient(rgba(88,169,63,0.8), rgba(88,169,63,0.7));
     background: linear-gradient(rgba(68,129,48,0.8), rgba(68,129,48,0.7));
     xborder-top: 4px solid #999;
-    border-top: 2px solid rgba(222,119,0,0.8);
+    border-top: 2px solid rgba(255,119,0,0.8);
     border-bottom: 4px solid #fff;
-    xborder-bottom: 4px solid rgba(222,119,0,0.8);
+    xborder-bottom: 4px solid rgba(255,119,0,0.8);
     padding: 6px 0 0;
 }
 
