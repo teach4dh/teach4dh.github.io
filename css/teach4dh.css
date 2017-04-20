@@ -238,9 +238,7 @@ li {
 }
 
 #footer > div {
-    /* height: 20px;
-    padding: 10px 10px 10px 50px; */
-    height: 5px;
+    height: 2px;
     padding: 10px 10px 10px 50px;
 }
 
