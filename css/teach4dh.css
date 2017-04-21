@@ -229,9 +229,9 @@ li {
 #footer {
     /*law17:  color matches color from the logo */
     background: linear-gradient(rgba(255,215,0, 1), rgba(255,215,0, 1));
-    background: linear-gradient(rgba(255,215,0, 1, rgba(255,215,0, 1));
+    background: linear-gradient(rgba(255,215,0, 1), rgba(255,215,0, 1));
     xborder-top: 4px solid #999;
-    border-top: 2px solid rgba(255,215,0, 1;
+    border-top: 2px solid rgba(255,215,0, 1);
     border-bottom: 4px solid #fff;
     xborder-bottom: 4px solid rgba(255,215,0, 1);
     padding: 6px 0 0;
