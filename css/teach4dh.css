@@ -109,7 +109,7 @@ table, th, td, img {
 h1, h2, h3 {
     color: rgb(162, 41, 0);
     color: rgb(162, 41, 0, );
-    font-family: "Slabo 27px";
+    font-family: Calibri, Candara, Segoe, "Segoe UI", Optima, Arial, sans-serif;  /*"Slabo 27px";*/
 }
 
 h1 {
