@@ -246,7 +246,7 @@ li {
     font-size: 18px;
     font-weight: bold;
     line-height: 18px;
-    color: #fff;
+    color: #000000; /* #fff;*/
     font-style: normal;
     padding-left: 10px;
 }
